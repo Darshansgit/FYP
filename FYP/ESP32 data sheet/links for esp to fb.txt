@@ -1,0 +1,13 @@
+1. data  base url 
+https://esptofb-9dbbc-default-rtdb.asia-southeast1.firebasedatabase.app/
+
+
+2.web api key 
+AIzaSyCmiTsIISmESFAfsvnekI3u5u91W4wD0fs
+
+Authentication 
+user email: darshansubedi31@gmail.com
+password: test123
+
+user id 
+DWWyCvp9z7hudQm8HEYzKexJ74b2
